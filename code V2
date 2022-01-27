@@ -4,8 +4,7 @@ print("Les jeux disponibles sont: \n"
       "2 : pierre-feuille-ciseau\n"
       "3 : jeu aléatoire du dé\n"
       "4 : jeu des stylos\n"
-      "5 : pendu\n"
-      "6 : sudoku")
+      "5 : pendu\n")
 
 Start = input("Entrez le numéro du jeu auquel vous voulez jouer : ")
 if Start == "1":
